@@ -1,7 +1,14 @@
-.container {
-    max-width: 960px;
-  }
-  
+.icon-size{
+    font-size:4rem;
+}
+.rem-undeline-link{
+    text-decoration: none !important;
+    font-size: 2rem;
+}
+.col-extra{
+    display: inline-flex;
+    justify-content: center;
+} 
   /*
    * Custom translucent site header
    */
@@ -68,3 +75,4 @@
     }
   }
   
+
